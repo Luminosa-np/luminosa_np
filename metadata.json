@@ -1,0 +1,8 @@
+{
+  "name": "Luminosa",
+  "description": "Luminosa is an upcoming Nepali brand creating thoughtfully selected products for modern everyday life, starting with the YSF-005BT portable FM radio and Bluetooth speaker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
